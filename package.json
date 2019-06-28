@@ -1,0 +1,24 @@
+{
+  "name": "superror",
+  "version": "0.0.1",
+  "description": "error stack parser and printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/superror.git"
+  },
+  "keywords": [
+    "error",
+    "stack",
+    "trace"
+  ],
+  "author": "Lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/superror/issues"
+  },
+  "homepage": "https://github.com/song940/superror#readme"
+}
