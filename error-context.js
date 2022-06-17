@@ -1,5 +1,4 @@
-const print = (src, line, column, n) => {
-  n = n || 3;
+const print = (src, line, column, n = 3) => {
   const lines = src.split('\n');
   const start = Math.max(line - n, 0);
   const end = Math.min(lines.length, line + n);
