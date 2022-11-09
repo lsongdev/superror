@@ -24,6 +24,8 @@ console.log(stack);
 
 ```
 
+![image](https://user-images.githubusercontent.com/1323768/200833943-e76e7dfc-f6b2-4ace-af83-c7ed5e4315c8.png)
+
 ### Contributing
 - Fork this Repo first
 - Clone your Repo
